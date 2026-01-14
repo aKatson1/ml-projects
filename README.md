@@ -11,3 +11,5 @@ Each project includes data exploration, model training, and evaluation steps.
 
 **Tech Stack**
 Python, NumPy, Pandas, Scikit-learn, TensorFlow, Matplotlib
+
+**_Note:_** This repository is under active development; additional notes and project materials will be added over time.
