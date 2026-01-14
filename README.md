@@ -1,7 +1,6 @@
 # Machine Learning Projects
 
-This repository contains practical applications of data science and machine learning.  
-Each project includes data exploration, model training, and evaluation steps.
+This repository contains practical applications of data science and machine learning. 
 
 **Purpose** To develop practical machine learning skills through end-to-end implementations, covering data processing, model training, evaluation, and deployment for real-world applications.
 
