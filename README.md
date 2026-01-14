@@ -3,6 +3,8 @@
 This repository contains practical applications of data science and machine learning.  
 Each project includes data exploration, model training, and evaluation steps.
 
+**Purpose** To develop practical machine learning skills through end-to-end implementations, covering data processing, model training, evaluation, and deployment for real-world applications.
+
 **Contents**
 - Image classification (CNNs, transfer learning)
 - Predictive modeling (regression, classification, clustering)
